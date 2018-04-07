@@ -1,5 +1,5 @@
 # GetImages
-Image parser from free stock which use requests and bs4 modules.
+Image parser from free stock (pixabay.com) which use requests and bs4 modules.
 
 # Инструкция по установке и использованию
 Установите библиотеки requests и bs4:<br> 
