@@ -3,7 +3,7 @@ Image parser from free stock which use requests and bs4 modules.
 
 # Инструкция по установке и использованию
 Установите библиотеки requests и bs4:<br> 
-pip3 install requests<br> 
+<b>pip3 install requests</b><br> 
 pip3 install beautifulsoup4<br> 
 Запускайте при в терминале в Python 3:<br> 
 python3 imgetter.py<br> 
